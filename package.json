@@ -16,6 +16,8 @@
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "axios": "^0.18.1",
+    "devextreme": "^19.1.4",
+    "devextreme-vue": "^19.1.4",
     "quasar": "^1.0.0",
     "vue-i18n": "^8.0.0"
   },

@@ -47,7 +47,7 @@ export default {
         'CompanyName': 'Electronics Depot',
         'Address': '2455 Paces Ferry Road NW',
         'City': 'Atlanta',
-        'State': 'Geor gia',
+        'State': 'Georgia',
         'Zipcode': 30339,
         'Phone': '(800) 595-3232',
         'Fax': '(800) 595-3231',
